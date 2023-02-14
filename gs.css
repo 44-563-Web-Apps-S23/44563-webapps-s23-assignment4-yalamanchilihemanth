@@ -1,0 +1,23 @@
+.speech{
+    font-size:10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+.direction{
+    font-size: 12px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+
+}
+.direction:hover{
+    background-color: beige;
+
+}
+.SIRHARRY{
+    color: brown;
+
+}
+.LADY SIMS{
+    color: white;
+}
+
