@@ -14,10 +14,26 @@
 
 }
 .SIRHARRY{
-    color: brown;
+    color: blueviolet;
 
 }
-.LADY SIMS{
-    color: white;
+.LADYSIMS{
+    color: pink;
 }
 
+table,th,td{
+    border: 1.5px solid;
+    border-collapse: collapse;
+    text-align: center;
+    color: seagreen;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-top: 15px;
+    margin-bottom:15px;
+    margin-left: 15px;
+    margin-right: 15px;
+
+}   
+ 
