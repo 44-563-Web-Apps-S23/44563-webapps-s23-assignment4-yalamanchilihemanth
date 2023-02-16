@@ -63,9 +63,9 @@ tr:nth-child(3)
     border: 3px solid green;
 
 }
-l.navbar-horizontal{
+ul.navbar-horizontal{
     display: flex;
-}u
+}
 ul li{
     margin: 10 px;
     padding: 20 px;
