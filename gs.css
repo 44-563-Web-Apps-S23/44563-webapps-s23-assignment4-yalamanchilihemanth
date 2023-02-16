@@ -67,12 +67,13 @@ ul.navbar-horizontal{
     display: flex;
 }
 ul li{
-    margin: 10 px;
-    padding: 20 px;
+    margin-left: 10px;
+    padding: 20px;
     list-style: none;
 }
 li a{
     text-decoration: none;
     background-color: darkgreen;
+    color: white;
 }
  
